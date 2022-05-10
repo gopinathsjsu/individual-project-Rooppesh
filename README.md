@@ -27,7 +27,7 @@ The objective of the Java Application is to create a Inventory Management System
 
 ## Design Patterns
 
-1) Singleton Pattern
-2) Factory Pattern
-3) Builder Pattern
+1) **Singleton Pattern**: The singleton pattern is a design pattern that restricts the instantiation of a class to one object. ConfigHelper.java and Repository.java follows singleton pattern. <br /> <br />
+2) **Factory Pattern**: A Factory Pattern is a design pattern that just define an interface or abstract class for creating an object but let the subclasses decide which class to instantiate. ReaderFactory.java decides which Parser is used. <br /> <br />
+3) **Builder Pattern**: The builder pattern is a design pattern designed to provide a flexible solution to various object creation problems. ItemBuilder.java builds Item.java.
 
