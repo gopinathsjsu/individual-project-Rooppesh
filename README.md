@@ -14,12 +14,12 @@ The objective of the Java Application is to create a Inventory Management System
 ### Note: 
 1. Input .CSV files are present in /input 
 2. Output .CSV and .TXT are present in /output
-3. Run 
 
 ### Instructions:
 1. Clone the repository
 2. Change the "baseRepoPath" in /config/config.properties
-3. 
+3. Run the program with Billing.java as the main file
+4. Input the file names in /input to check different test cases (eg. "input1", "input2" etc.)
 
 ## Class Diagram
 
